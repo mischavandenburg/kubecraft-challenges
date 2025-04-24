@@ -1,0 +1,11 @@
+[project]
+name = "01"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flask>=3.1.0",
+    "pandas>=2.2.3",
+    "psycopg2-binary>=2.9.10",
+]
