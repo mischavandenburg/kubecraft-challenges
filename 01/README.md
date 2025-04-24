@@ -21,7 +21,7 @@ This repository contains:
 
 ## Hints
 
-- Check out the documentation for [uv in Docker](https://astral.sh/uv/docs/integrations/docker)
+- Check out the documentation for [uv in Docker](https://docs.astral.sh/uv/guides/integration/docker/)
 - Consider what base image is truly necessary
 - Think about which dependencies are actually needed at runtime vs. build time
 - Remember that uv has special features for Docker optimization
